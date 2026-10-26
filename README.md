@@ -24,7 +24,7 @@
     {
       "name": "Advanced Universal Calculator",
       "status": "Production-ready (4k+ lines of pure logic)",
-      "url": "https://github.io"
+      "url": "[https://github.io](https://vscode-magic.github.io/Calculator/)"
     },
     {
       "name": "Dynamic-Island & Apple Clone Concepts",
