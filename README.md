@@ -1,16 +1,36 @@
-## Hi there 👋
+# 💻 vscode-magic.json
 
-<!--
-**vscode-magic/vscode-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "developer": {
+    "name": "vscode-magic",
+    "role": "Frontend / Fullstack Developer",
+    "focus": "Building high-performance, pixel-perfect user interfaces & applications",
+    "location": "Poland 🇵🇱"
+  },
 
-Here are some ideas to get you started:
+  "techStack": {
+    "core": ["React.js", "TypeScript", "JavaScript (ES6+)", "Node.js"],
+    "styling": ["Tailwind CSS", "CSS3 (Animations)", "HTML5 (Semantic UI)"],
+    "tools": ["Git & GitHub", "Vercel", "Vite", "VS Code Mastery"]
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "evolution": {
+    "pre-july": "Deep diving into complex Vanilla JS state management and algorithms",
+    "post-july": "Architectural shift to modern, type-safe full-stack React ecosystems"
+  },
+
+  "featuredProjects": [
+    {
+      "name": "Advanced Universal Calculator",
+      "status": "Production-ready (4k+ lines of pure logic)",
+      "url": "https://github.io"
+    },
+    {
+      "name": "Dynamic-Island & Apple Clone Concepts",
+      "status": "Advanced UI & Animation showcase",
+      "url": "https://github.com"
+    }
+  ]
+}
+```
